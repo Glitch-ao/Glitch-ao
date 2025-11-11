@@ -4,16 +4,20 @@
 
 I am passionate about cybersecurity, focusing on SOC operations, threat detection, and incident response. I enjoy working with SIEM platforms like Microsoft Sentinel, analyzing security incidents, and developing detection rules. I am also exploring threat hunting, IOC documentation, and security operations to enhance detection and response capabilities.
 
-## Skills & Projects
+## Investigations & Projects
 
-| Skill | Associated Project |
-|-------|-------------------|
-| Security Incident Analysis & Documentation | [MTS Domain Controller Incident Report](https://github.com/Glitch-ao/mts-dc-incident-report) |
-| RDP Attack Detection & Investigation | [Contractor PC RDP Compromise](https://github.com/Glitch-ao/contractor-pc-rdp-compromise) |
-| Threat Detection & IOC Enrichment | [SOC Cyber Range Investigations](https://github.com/Glitch-ao) |
-| MITRE ATT&CK Framework Mapping | [Incident Response Documentation](https://github.com/Glitch-ao) |
-| KQL Query Development | Security Operations Projects |
-| PowerShell Script Analysis | Malware Analysis & Detection |
+| Investigation | Associated Repository |
+|---------------|----------------------|
+| Domain Controller RDP Compromise Investigation | [MTS Domain Controller Incident Report](https://github.com/Glitch-ao/mts-dc-incident-report) |
+| Contractor PC RDP & PowerShell Obfuscation Attack | [Contractor PC RDP Compromise](https://github.com/Glitch-ao/contractor-pc-rdp-compromise) |
+| SOC Cyber Range Threat Hunting | [SOC Cyber Range Investigations](https://github.com/Glitch-ao) |
+| MITRE ATT&CK Incident Response | [Incident Response Documentation](https://github.com/Glitch-ao) |
+
+### Security Projects
+
+- KQL Query Development for SIEM Detection
+- PowerShell Script Analysis & Malware Detection
+- IOC Enrichment & Threat Intelligence Analysis
 
 ## Tools & Technologies
 
