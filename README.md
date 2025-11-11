@@ -10,8 +10,6 @@ I am passionate about cybersecurity, focusing on SOC operations, threat detectio
 |---------------|----------------------|
 | Domain Controller RDP Compromise Investigation | [MTS Domain Controller Incident Report](https://github.com/Glitch-ao/mts-dc-incident-report) |
 | Contractor PC RDP & PowerShell Obfuscation Attack | [Contractor PC RDP Compromise](https://github.com/Glitch-ao/contractor-pc-rdp-compromise) |
-| SOC Cyber Range Threat Hunting | [SOC Cyber Range Investigations](https://github.com/Glitch-ao) |
-| MITRE ATT&CK Incident Response | [Incident Response Documentation](https://github.com/Glitch-ao) |
 
 ### Security Projects
 
