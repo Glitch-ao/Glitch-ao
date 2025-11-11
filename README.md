@@ -11,11 +11,22 @@ I am passionate about cybersecurity, focusing on SOC operations, threat detectio
 | Domain Controller RDP Compromise Investigation | [MTS Domain Controller Incident Report](https://github.com/Glitch-ao/mts-dc-incident-report) |
 | Contractor PC RDP & PowerShell Obfuscation Attack | [Contractor PC RDP Compromise](https://github.com/Glitch-ao/contractor-pc-rdp-compromise) |
 
-### Security Projects
+## Projects
 
-- KQL Query Development for SIEM Detection
-- PowerShell Script Analysis & Malware Detection
-- IOC Enrichment & Threat Intelligence Analysis
+| Project | Associated Repository |
+|---------|----------------------|
+| SOC338 - Lumma Stealer DLL Side-Loading via Click-Fix Phishing | [SOC338---Lumma-Stealer---DLL-Side-Loading-via-Click-Fix-Phishing](https://github.com/Glitch-ao/SOC338---Lumma-Stealer---DLL-Side-Loading-via-Click-Fix-Phishing) |
+| SOC176 - RDP Brute-Force Detected | [SOC176---RDP-Brute-Force-Detected](https://github.com/Glitch-ao/SOC176---RDP-Brute-Force-Detected) |
+| SOC335 - CVE-2024-49138 Exploitation Detected | [SOC335-CVE-2024-49138-Exploitation-Detected](https://github.com/Glitch-ao/SOC335-CVE-2024-49138-Exploitation-Detected) |
+| Incident Lifecycle Execution | [Incident-Lifecycle-Execution](https://github.com/Glitch-ao/Incident-Lifecycle-Execution) |
+| Incident Response Communication | [Incident-Response-Communication](https://github.com/Glitch-ao/Incident-Response-Communication) |
+| Risk-based Vulnerability Management | [Risk-based-Vulnerability-Management](https://github.com/Glitch-ao/Risk-based-Vulnerability-Management) |
+| Attack Surface Reduction Patch Management Workflow | [Attack-Surface-Reduction-Patch-management-Workflow](https://github.com/Glitch-ao/Attack-Surface-Reduction-Patch-management-Workflow) |
+| Identifying & Analyzing Malicious Activity | [Identifying-Analyzing-Malicious-Activity](https://github.com/Glitch-ao/Identifying-Analyzing-Malicious-Activity) |
+| Vulnerability Scanning Tools & Techniques | [Vulnerability-scanning-tools-techniques](https://github.com/Glitch-ao/Vulnerability-scanning-tools-techniques) |
+| Malicious Activity Detection | [Malicious-Activity-Detection](https://github.com/Glitch-ao/Malicious-Activity-Detection) |
+| Threat Intelligence Lifecycle Deployment | [Threat-Intelligence-Lifecyle-deployment](https://github.com/Glitch-ao/Threat-Intelligence-Lifecyle-deployment) |
+| Secure Enterprise Network Deployment | [Secure-Enterprise-Network-Deployment](https://github.com/Glitch-ao/Secure-Enterprise-Network-Deployment) |
 
 ## Tools & Technologies
 
